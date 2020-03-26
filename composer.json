@@ -1,5 +1,5 @@
 {
-    "name": "fluidtypo3/flux",
+    "name": "skalotskiyagiliway/flux",
     "description": "The flux package from FluidTYPO3",
     "type": "typo3-cms-extension",
     "homepage": "http://fluidtypo3.org",
@@ -23,7 +23,7 @@
         "fluidtypo3/vhs": "ViewHelper library for Fluid templates."
     },
     "require": {
-        "php": "^7.1.0",
+        "php": "^7.2.0",
         "typo3/cms-core": "^8.7 || ^9 || ^10 || dev-master",
         "typo3/cms-fluid": "^8.7 || ^9 || ^10 || dev-master",
         "typo3/cms-backend": "^8.7 || ^9 || ^10 || dev-master",
